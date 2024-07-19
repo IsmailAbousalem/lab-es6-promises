@@ -29,6 +29,7 @@
 
 // Iteration 1 - using callbacks
 // ...
+// Starting Iteration 1
 
 // Iteration 2 - using promises
 // ...
