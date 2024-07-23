@@ -79,7 +79,7 @@ obtainInstruction('steak', 0)
   })
   .then((step7) => {
     document.querySelector("#steak").innerHTML += `<li>${step7}</li>`;
-    document.querySelector("#steak").innerHTML += `<li>Stake is ready!</li>`;
+    document.querySelector("#steak").innerHTML += `<li>Steak is ready!</li>`;
   })
   .catch((error) => {
     console.error(error);
